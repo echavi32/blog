@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eds Data Science Blog</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Eds Data Science Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1</title>
+      <link>http://example.com/project/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 2</title>
+      <link>http://example.com/project/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 3</title>
+      <link>http://example.com/project/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project 4</title>
+      <link>http://example.com/project/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/project/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scatter Plots</title>
+      <link>http://example.com/post/scatter-plots/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/scatter-plots/</guid>
+      <description>library(ggplot2)Lets generate some random points:
+x&amp;lt;-rnorm(100,5,2)y&amp;lt;-rnorm(100,2*x+1,2)Now lets make a data frame:
+df&amp;lt;-data.frame(x,y)df## x y## 1 5.9077307 11.4990140## 2 2.0747630 6.3060842## 3 5.8284071 14.0040965## 4 6.5051493 11.9886426## 5 4.2904241 8.6950924## 6 5.5533723 12.3387224## 7 5.6348218 15.3025146## 8 6.3981729 12.4644073## 9 6.8892777 12.0775531## 10 6.2036246 11.2539665## 11 5.9499506 12.3610015## 12 9.7083754 21.1649348## 13 2.0352538 6.</description>
+    </item>
+    
+  </channel>
+</rss>
